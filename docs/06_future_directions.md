@@ -50,7 +50,7 @@ response = opensearch.index(
 print(response)
 ```
 ---
-
+---
 ## 3️⃣ Federated Learning for Privacy-Preserving AI
 ### 🔹 Trend
 - AI models will **train on decentralized data** without exposing sensitive information.
