@@ -2,6 +2,7 @@
 
 ## What is Agentic AI?
 Agentic AI refers to AI systems that can **autonomously plan, reason, and execute** tasks. Unlike traditional AI models, which are passive and respond only to user inputs, agentic AI takes a **proactive approach**, making decisions based on its environment, goals, and learned knowledge.
+![Agenticai](../images/Agenticai.png)
 
 ### Key Characteristics of Agentic AI:
 1. **Autonomy:** Can operate without continuous human intervention.
@@ -9,6 +10,8 @@ Agentic AI refers to AI systems that can **autonomously plan, reason, and execut
 3. **Reasoning & Planning:** Uses AI reasoning to break down complex tasks into manageable steps.
 4. **Memory & Adaptation:** Remembers past interactions and adapts behavior over time.
 5. **Multi-Agent Collaboration:** Can work alongside other AI agents or human users to achieve complex goals.
+
+![characteristics](../images/charcteristic.png)
 
 ### Example: Traditional AI vs. Agentic AI
 | Feature            | Traditional AI  | Agentic AI |

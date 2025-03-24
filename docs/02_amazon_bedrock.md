@@ -3,6 +3,8 @@
 ## Overview
 Amazon Bedrock is a **fully managed service** that provides access to **pre-trained foundation models (FMs)** from leading AI providers. It enables developers to build and deploy **Agentic AI** applications without managing underlying infrastructure.
 
+![bedrock](../images/bedrockdesh.png)
+
 ### 🔹 Key Foundation Models Available in Amazon Bedrock
 Amazon Bedrock provides access to several **pre-trained models**, including:
 
