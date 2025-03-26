@@ -126,6 +126,7 @@ This guide provides a **step-by-step approach** to building **Agentic AI solutio
 ---
 
 ### 🎤 **Connect with Me:**
+---
 - 👨‍💻 **LinkedIn**: [Shaishav Surati 🇮🇳](https://www.linkedin.com/in/shaishavsurati)
 - 💻 **GitHub**: [shaishav06](https://github.com/yourusername)
 - 📧 **Email**: [shaishavsurati06@gmail.com](mailto:shaishavsurati06@gmail.com)
