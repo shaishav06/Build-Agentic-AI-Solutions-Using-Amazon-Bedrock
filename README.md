@@ -46,6 +46,8 @@ This guide provides a **step-by-step approach** to building **Agentic AI solutio
 ---
 
 ## 3️⃣ Core Components of Agentic AI
+---
+
 🔗 [Read more](./docs/03_core_components.md)
 
 ### 🏛️ Foundation Models (FMs)
